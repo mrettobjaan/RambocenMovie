@@ -43,6 +43,18 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
 
 
+=========================================== CHANNEL MOVIE ====================================================
+
+#EXTINF:-1 tvg-logo="https://decider.com/wp-content/uploads/2017/07/hbo.jpg" group-title="MOVIE",ID: HBO
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Hbo_family.png" group-title="MOVIE",ID: HBO Family
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/hbofamily.m3u8
+#EXTINF:-1 tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India.png" group-title="MOVIE",ID: HBO Hits
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/hbohits.m3u8
+#EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/08/02/169353198.jpg" group-title="MOVIE",ID: HBO Signature
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/hbosig.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/47/9f/73/479f73ecce553344b56c02a7c28047ca.jpg" group-title="MOVIE",ID: Cinemax
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/movies/cinemax.m3u8
 =========================================== VOD ===========================================
 
 #EXTINF:-1 type="movie" group-title="MOVIES VOD" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-die-hart-2-die-harter-2024-lk21-d21.jpg",Die Hart 2: Die Harter 2024
