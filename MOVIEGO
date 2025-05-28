@@ -189,6 +189,9 @@ http://pfsv.io:80/FzzQitUFQE/JRSMHYRSlT/227694.ts
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/512/6116/6116684.png" group-title="247",ID: Game of Thrones
 https://raw.githubusercontent.com/mrettobjaan/RambocenMovie/refs/heads/main/247/gameofthrones
 
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/512/6116/6116684.png" group-title="247",ID: Game of Thrones SD
+https://raw.githubusercontent.com/mrettobjaan/RambocenMovie/refs/heads/main/247/gameofthronessd
+
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/512/6116/6116684.png" group-title="247",ID: Game of Thrones HD
 https://raw.githubusercontent.com/mrettobjaan/RambocenMovie/refs/heads/main/247/gameofthroneshd
 
