@@ -186,17 +186,35 @@ http://pfsv.io:80/FzzQitUFQE/JRSMHYRSlT/227694.ts
 ================================================================= 247 =====================================================================
 ===========================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2021/11/film-game-of-thrones-2011-d21.jpg.webp" group-title="247",ID: Game of Thrones
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/512/6116/6116684.png" group-title="247",ID: Game of Thrones
 https://raw.githubusercontent.com/mrettobjaan/RambocenMovie/refs/heads/main/247/gameofthrones
 
-#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2021/11/film-game-of-thrones-2011-d21.jpg.webp" group-title="247",ID: Game of Thrones HD
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/512/6116/6116684.png" group-title="247",ID: Game of Thrones HD
 https://raw.githubusercontent.com/mrettobjaan/RambocenMovie/refs/heads/main/247/gameofthroneshd
 
-#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2021/11/film-game-of-thrones-2011-d21.jpg.webp" group-title="247",ID: Game of Thrones FHD
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/512/6116/6116684.png" group-title="247",ID: Game of Thrones FHD
 https://raw.githubusercontent.com/mrettobjaan/RambocenMovie/refs/heads/main/247/gameofthronesfhd
 
-#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2021/11/film-game-of-thrones-2011-d21.jpg.webp" group-title="247",ID: Game of Thrones BR
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/512/6116/6116684.png" group-title="247",ID: Game of Thrones BR
 https://raw.githubusercontent.com/mrettobjaan/RambocenMovie/refs/heads/main/247/gameofthronesbr
 
-#EXTINF:-1 tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2021/11/film-game-of-thrones-2011-d21.jpg.webp" group-title="247",ID: Spartacus BR
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/512/6116/6116684.png" group-title="247",ID: Spartacus BR
 https://raw.githubusercontent.com/mrettobjaan/RambocenMovie/refs/heads/main/247/spartacusbr
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/512/6116/6116684.png" group-title="247",ID: LOST
+https://raw.githubusercontent.com/mrettobjaan/RambocenMovie/refs/heads/main/247/lost
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/512/6116/6116684.png" group-title="247",ID: Spartacus 1
+https://raw.githubusercontent.com/mrettobjaan/RambocenMovie/refs/heads/main/247/spartacus1
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/512/6116/6116684.png" group-title="247",ID: Spartacus 2
+https://raw.githubusercontent.com/mrettobjaan/RambocenMovie/refs/heads/main/247/spartacus2
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/512/6116/6116684.png" group-title="247",ID: Stranger Things
+https://raw.githubusercontent.com/mrettobjaan/RambocenMovie/refs/heads/main/247/strangerthings
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/512/6116/6116684.png" group-title="247",ID: Supergirl
+https://raw.githubusercontent.com/mrettobjaan/RambocenMovie/refs/heads/main/247/supergirl
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/512/6116/6116684.png" group-title="247",ID: The 100
+https://raw.githubusercontent.com/mrettobjaan/RambocenMovie/refs/heads/main/247/the100
