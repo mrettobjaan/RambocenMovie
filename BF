@@ -1,3 +1,8 @@
+#EXTM3U
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="\u2726\u25cf\u2726 ADULT 7/24 \u2726\u25cf\u2726" group-title="XXX ❤️ ADULTS 1",\u2726\u25cf\u2726 ADULT 7/24 \u2726\u25cf\u2726
 
 http://vip.qruzetv.site:8080/play/live.php?mac=00:1A:79:13:50:E5&stream=471946&extension=ts
